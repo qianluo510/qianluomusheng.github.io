@@ -1,10 +1,10 @@
 {
-    "name": "your github username",
-    "repo": "your github reponame",
-    "client_id": "your client_id here",
-    "client_secret": "your client_secret here",
-    "title": "add your title",
-    "instruction": "add your instruction",
+    "name": "qianluo510",
+    "repo": "qianluomusheng.github.io",
+    "client_id": "Ov23li8NUuoJ5IIhD7KM",
+    "client_secret": "be13fa82f29609f31b6176db6efb105e04ff55cd",
+    "title": "千落仙缘",
+    "instruction": "修仙、内功、科学、命卜",
     "server_link": "http://119.23.8.25/gh-oauth-server.php",
     "filter": {
         "creator": "all",	//@param: "all" or a username(eg. "imuncle")
